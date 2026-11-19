@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 200" role="img" aria-label="TRACE Lab: Technologies for Removing Anthropogenic Contaminants and Emerging pollutants">
+  <g transform="translate(10,20) scale(1.3)"><path d="M60 4C77 29 100 50 100 77a40 40 0 0 1-80 0C20 50 43 29 60 4z" fill="#123f47"/>
+  <path d="M33 86H87" stroke="#4d8288" stroke-width="1.6"/>
+  <path d="M33 86h5l3-2 4-40 4 40 4 2 3-24 3 24 4 2 2-12 2 12 4 2 2-5 2 5h11" fill="none" stroke="#e2b866" stroke-width="3.4" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M45 30c-6 8-10 14-12 21" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity=".55" fill="none"/></g>
+  <g font-family="Public Sans, Arial Black, Arial, sans-serif" font-weight="800" font-size="92" fill="#123f47">
+    <text x="190" y="118" textLength="120" lengthAdjust="spacingAndGlyphs">TR</text>
+    <g transform="translate(318,52) scale(0.68)"><path d="M-6 98H6l8-6 26-90 26 90 8 6h12" fill="none" stroke="#c79a52" stroke-width="15" stroke-linejoin="round" stroke-linecap="round"/></g>
+    <text x="388" y="118" textLength="122" lengthAdjust="spacingAndGlyphs">CE</text>
+  </g>
+  <text x="526" y="118" font-family="Spectral, Georgia, serif" font-size="44" fill="#55666a">Lab</text>
+  <text x="192" y="160" font-family="Public Sans, Arial, sans-serif" font-size="19" fill="#3f5357" textLength="556" lengthAdjust="spacingAndGlyphs">Technologies for Removing Anthropogenic Contaminants &amp; Emerging pollutants</text>
+</svg>
